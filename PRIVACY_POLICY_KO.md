@@ -119,7 +119,7 @@ Google Drive에 백업하기로 선택한 경우:
 - **앱 접근 권한 취소**: [Google 계정 보안 설정](https://myaccount.google.com/permissions)에서 언제든지 앱의 Google 계정 접근 권한을 취소할 수 있습니다.
 - **수동 삭제**: Google Drive 저장소에서 앱의 데이터 폴더를 수동으로 직접 삭제할 수 있습니다.
 - **지원**: 데이터 관리 또는 삭제에 대한 질문이 있는 경우 개발자에게 **<sunjjoo@gmail.com>**으로 문의하세요.
-- 
+  
 ---
 
 ## 5. 제3자 서비스
