@@ -283,7 +283,7 @@ If you do not agree, please do not use the app.
 
 ## Changelog
 
-- **v1.0 (2026-01-28)**: Initial privacy policy for v1.0.0 release
+- **v1.0 (2026-01-29)**: Initial privacy policy for v1.0.0 release
 
 ---
 
