@@ -260,7 +260,7 @@ We implement the following security measures:
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your data:
 
-**Email**: [your-support-email@example.com]
+**Email**: sunjjoo@gmail.com
 **Response Time**: We aim to respond within 3 business days
 
 **For GDPR Requests**: Use the same email with subject line "GDPR Request"
